@@ -62,7 +62,7 @@ $(function () {
             let message = $("textarea#message").val();
 
             if ($("input#name").val() && $("input#email").val()){
-                alert ("Hey " + name + "," +"Thank you!! for your comment, we will be in touch soon");
+                alert ("Hey " + name + "," +"Thanks for your comment, we'll comeback to you soon");
             }
             
 
