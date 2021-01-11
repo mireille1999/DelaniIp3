@@ -5,11 +5,11 @@
 In this website, you can see the different projects Delani studio worked on  and also send a message.
 ## Technologies Used
  The languages and tools you used to create this website are  :
-HTML5
-CSS3
-Bootstrap
-Javascript
-JQuery
+* HTML5
+* CSS3
+* Bootstrap
+* Javascript
+* JQuery
 ## Live link
  https://mireille1999.github.io/DelaniIp3/.
 ## Support and contact details
